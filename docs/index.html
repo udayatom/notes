@@ -11,6 +11,13 @@
 </head>
 
 <body>
+  <nav>
+    {{ site.static_files }}
+    {% capture navbar %}
+    {% include navbar.md %}
+    {% endcapture %}
+    {{ navbar | markdownify }}
+  </nav>
   <div id="app"></div>
 
 
