@@ -1,0 +1,3 @@
+- [Home](/)
+- [Quick Commands](quickcommands/)
+- [Python](python/)
