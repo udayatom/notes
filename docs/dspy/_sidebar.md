@@ -1,0 +1,9 @@
+- Concepts
+- [Basic QA](dspy/dspy_basic_qa.md)
+- [Chain of Thought](python/set.md)
+- [Typed Predicators](python/tuples.md)
+- [RAG](python/tuples.md)
+- [Multi Hop](python/tuples.md)
+- [Optimizers](python/tuples.md)
+- [Data Generation](python/tuples.md)
+- [Fine Tuning](python/tuples.md)

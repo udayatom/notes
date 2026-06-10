@@ -1,2 +1,2 @@
 - [Home](/)
-- [Git Commands](quickcommands/gitcommands.md)
+- [Git Commands](git/gitcommands.md)
