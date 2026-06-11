@@ -1,18 +1,1 @@
-# Home
-
-| 📌 Topics      | 🔗 Link                          |
-| -------------- | -------------------------------- |
-| Python         | [python](python/)                |
-| Quick Commands | [Quick Commands](quickcommands/) |
-| Docker         | [Quick Commands](quickcommands/) |
-
-> include /python/list.md
- 
-
-![alt text](images/image.png)
-
-> ddfdfd
-
-- Python Docs
-  - [List](./python/list.md)
-  - [Notes](./python/notes.md)
+Home

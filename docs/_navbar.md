@@ -2,12 +2,10 @@
 
 - [Home](/)
 
-- Python
-  - [Home](/python/)
-  - [Important Questions](/quickcommands/)
+- [AI](/ai/)
+
+- [Python](/python/)
 
 - [DevOps](/devops/)
-
-- [AI](/ai/)
 
 - [Database](/database/)

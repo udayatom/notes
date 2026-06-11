@@ -26,13 +26,18 @@
       loadNavbar: true,
       name: '',
       repo: '',
-      search: 'auto', // default
-      depth: 3, // default
-
+      //search: 'auto', // default
+      //  depth: 4, // default
+      search: {
+        paths: 'auto',
+        fullTextSearch: true,
+        depth: 6,
+        maxAge: 0
+      }
 
       // complete configuration parameters
       // search: {
-      //   maxAge: 86400000, // Expiration time, the default one day
+      //   maxAge: 0, // Expiration time, the default one day
       //   paths: 'auto', // or 'auto'
       //   placeholder: 'Search',
 
@@ -43,7 +48,10 @@
       //   // },
 
       //   noData: 'No Results!',
-
+      //   // Enable full text search
+      //   fullTextSearch: {
+      //     '/': true
+      //   },
       //   // Localization
       //   // noData: {
       //   //   '/zh-cn/': '找不到结果',
@@ -51,7 +59,7 @@
       //   // },
 
       //   // Headline depth, 1 - 6
-      //   depth: 3,
+      //   depth: 4,
 
       //   hideOtherSidebarContent: false, // whether or not to hide other sidebar content
 

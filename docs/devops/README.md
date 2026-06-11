@@ -1,10 +1,10 @@
 # DevOps
 
-| 📌 DevOps  |                    |
-| ---------- | ------------------ |
-| Crew AI    | [Docker](/docker/) |
-| ADK        | [Nginx](/nginx/)   |
-| Lang Graph | [AWS](/aws/)       |
+| 📌 DevOps |                    |
+| --------- | ------------------ |
+| Docker    | [Docker](/docker/) |
+| Nginx     | [Nginx](/nginx/)   |
+| AWS       | [AWS](/aws/)       |
 
 ---
 
