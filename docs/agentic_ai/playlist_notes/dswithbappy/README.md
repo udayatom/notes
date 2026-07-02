@@ -1,6 +1,6 @@
 - [8) Understanding LangGraph Core Components](/notes/docs/agentic_ai/playlist_notes/dswithbappy/8_Understanding_LangGraph_Core_Components/notes.md)
 
-- [9) Build Sequential Workflows in LangGraph](agentic_ai/playlist_notes/dswithbappy/9_Build_Sequential_Workflows_in_LangGraph/notes.md)
+- [9) Build Sequential Workflows in LangGraph](agentic_ai/playlist_notes/dswithbappy/9-Build-Sequential-Workflows-in-LangGraph/notes.md)
 
 - [10) Implement Parallel Workflows in LangGraph](agentic_ai/playlist_notes/dswithbappy/10_Implement_Parallel_Workflows_in_LangGraph/notes.md)
 
