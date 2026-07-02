@@ -10,6 +10,6 @@
 
 #### Playlist
 
-- [DSWithBappy](agentic_ai/playlist-notes/dswithbappy)
+- [DSWithBappy](agentic_ai/playlistnotes/dswithbappy)
 
 ---
