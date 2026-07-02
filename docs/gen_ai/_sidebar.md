@@ -1,3 +1,0 @@
-- RAG
-- [Git Commands](git/gitcommands.md)
-- [Git Commands](git/gitcommands.md)

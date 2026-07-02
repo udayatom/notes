@@ -34,3 +34,9 @@
 | Live Kit       | [Live Kit](/livekit/) |
 
 ---
+# Vector Db
+
+| 📌 Agent Tools |                       |
+| -------------- | --------------------- |
+| Live Kit       | [Live Kit](/livekit/) |
+---

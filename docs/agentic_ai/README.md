@@ -1,3 +1,15 @@
-# Headline
+#### Concepts
 
-> An awesome project.
+- [Design Patterns](agentic_ai/quickpoints/agentic_ai_designpatterns)
+
+---
+
+#### Videos
+
+---
+
+#### Playlist
+
+- [DSWithBappy](agentic_ai/playlist-notes/dswithbappy/)
+
+---
