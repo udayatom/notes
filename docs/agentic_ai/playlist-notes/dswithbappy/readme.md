@@ -1,4 +1,4 @@
-- [8) Understanding LangGraph Core Components](agentic_ai/playlist-notes/dswithbappy/8_Understanding_LangGraph_Core_Components/notes.md)
+- [8) Understanding LangGraph Core Components](/notes/docs/agentic_ai/playlist-notes/dswithbappy/8_Understanding_LangGraph_Core_Components/notes.md)
 
 - [9) Build Sequential Workflows in LangGraph](agentic_ai/playlist-notes/dswithbappy/9_Build_Sequential_Workflows_in_LangGraph/notes.md)
 
