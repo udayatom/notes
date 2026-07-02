@@ -12,3 +12,9 @@
 #### Playlist
 
 ---
+
+#### LLM References
+
+- [LLM Cost and Request Optimization](llm/quickpoints/AI_APIKeys)
+
+---

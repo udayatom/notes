@@ -30,6 +30,7 @@
 
 - ### AI
   - [LLM](llm/)
+  - [Langchain](langchain/)
   - [GenAI](genai/)
   - [Agentic AI](agentic_ai/)
 

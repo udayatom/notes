@@ -1,11 +1,5 @@
 <!-- _navbar.md -->
 
-- [Home](/)
+- [Notes](/)
 
-- [AI](/ai/)
-
-- [Python](/python/)
-
-- [DevOps](/devops/)
-
-- [Database](/database/)
+- [Web Bookmarks](/web_bookmarks/)

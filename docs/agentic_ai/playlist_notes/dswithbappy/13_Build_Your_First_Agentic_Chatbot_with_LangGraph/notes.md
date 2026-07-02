@@ -1,3 +1,11 @@
+<iframe
+  width="500" 
+  height="500" 
+  src="https://www.youtube.com/embed/l3cMKkLxSAU"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+
 #### Project Implementation
 
 - Simple chatbot workflow
@@ -12,11 +20,10 @@
 - HITL
 - Short Term and Long Term Memory
 
+![](./assets/13_chatbot_flow.png)
 
-<iframe
-  width="500" 
-  height="500" 
-  src="https://www.youtube.com/embed/l3cMKkLxSAU"
-  frameborder="0"
-  allowfullscreen>
+<iframe 
+  src="/agentic_ai/playlist-notes/dswithbappy/13_Build_Your_First_Agentic_Chatbot_with_LangGraph/files/13_1_ChatbotFlow.html"
+  width="100%" 
+  height="800px">
 </iframe>
