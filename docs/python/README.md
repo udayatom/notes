@@ -1,5 +1,5 @@
 - #### Environment Setup
-  - [conda](python/conda_setup.md)
+  - [conda](python/environment_setup/conda_setup.md)
   - [uv](python/uv_setup.md)
 
 - #### Data structure
@@ -49,12 +49,4 @@
   - [Advanced decorators](python/advanced_decorators.md)
   - [Async programming](python/async_programming.md)
 
-- #### Pydantic
-  - [basic](python/pydantic/1_basic.md)
-  - [optional, required](python/pydantic/2_optional_required.md)
-  - [Data validation](python/pydantic/3_data_validation.md)
-  - [Field Meta Data](python/pydantic/4_field_meta_data.md)
-  - [Field Validator](python/pydantic/5_field_validator.md)
-  - [Model Validator](python/pydantic/6_model_validator.md)
-  - [Computed Fields](python/pydantic/7_computed_fields.md)
-  - [Nested Models](python/pydantic/8_nested_models.md)
+- #### [Pydantic](python/pydantic/notes.md)

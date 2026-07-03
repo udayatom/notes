@@ -1,3 +1,6 @@
+### Conda Environment
+
+```python
 conda create -n GenAIEnv python=3.11 -y
 conda activate GenAIEnv
 
@@ -10,3 +13,4 @@ python -m pip show langgraph
 
 import sys
 print(sys.executable)
+```

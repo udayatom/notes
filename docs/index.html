@@ -54,7 +54,8 @@
 
   <!-- Docsify v4 -->
   <!-- <script src="//cdn.jsdelivr.net/npm/docsify@4"></script> -->
-  <script src="//unpkg.com/docsify-include/dist/docsify-include.min.js"></script>
+
+  <script src="//cdn.jsdelivr.net/npm/docsify-include/dist/docsify-include.min.js"></script>
   <script>
     window.$docsify = {
       loadSidebar: true,
@@ -68,7 +69,29 @@
         fullTextSearch: true,
         depth: 6,
         maxAge: 0
-      }
+      },
+      plugins: [
+        function (hook, vm) {
+          hook.afterEach(function (html) {
+            const path = vm.route.path;
+
+            // remove leading slash and .md
+            const clean = path.replace(/^\/|\.md$/g, '');
+            const parts = clean.split('/').filter(Boolean);
+
+            if (parts.length) {
+              const breadcrumb = parts.map((p, i) => {
+                const link = '/' + parts.slice(0, i + 1).join('/');
+                return `<a href="#${link}/">${p}</a>`;
+              }).join(' / ');
+
+              html = `<nav class="breadcrumb">${breadcrumb}</nav>` + html;
+            }
+
+            return html;
+          });
+        }
+      ]
 
       // complete configuration parameters
       // search: {
