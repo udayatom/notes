@@ -1,28 +1,3 @@
-<!-- <div class="grid">
-
-<details class="card">
-<summary>Python</summary>
-
-| 📌 Topics      | 🔗 Link                   |
-| -------------- | ------------------------- |
-| Quick Commands | [Quick Commands](python/) |
-| Basics         | [Basics](python/basics/)  |
-| OOP            | [OOP](python/oop/)        |
-
-</details>
-
-<details class="card">
-<summary>GenAI</summary>
-
-| 📌 Topics | 🔗 Link                       |
-| --------- | ----------------------------- |
-| Prompting | [Prompting](genai/prompting/) |
-| Tools     | [Tools](genai/tools/)         |
-
-</details>
-
-</div> -->
-
 - ### Programming
   - [Python](python/)
 
@@ -30,23 +5,27 @@
 
 - ### AI
   - [LLM](llm/)
+  - [RAG](rag/)
   - [Langchain](langchain/)
   - [GenAI](genai/)
   - [Agentic AI](agentic_ai/)
 
-| Agentic Frameworks        | AI Workflow Tools       |
-| ------------------------- | ----------------------- |
-| [ADK](/adk/)              | [n8n](/n8n/)            |
-| [Lang Graph](/langgraph/) | [Open Claw](/openclaw/) |
-| [DSPy](/dspy/)            |                         |
-| [Crew AI](/crewai/)       |                         |
+- ### Agentic Frameworks
+
+- [ADK](/adk/)
+- [Lang Graph](/langgraph/)
+- [DSPy](/dspy/)
+- [Crew AI](/crewai/)
+
+- ### AI Workflow Tools
+  [n8n](/n8n/) |
+  [Open Claw](/openclaw/)
 
 ---
 
-| Vector DB              | AI Workflow Tools |
-| ---------------------- | ----------------- |
-| [Qdrant](/qdrant/)     |                   |
-| [Pincone](/pincone/)   |                   |
-| [ChromaDB](/chromadb/) |                   |
+- ### Vector DB
+- [Qdrant](/qdrant/)
+- [Pincone](/pincone/)
+- [ChromaDB](/chromadb/)
 
 ---
