@@ -10,6 +10,6 @@
 
 #### Playlist
 
-- [](rag/playlist_notes//)
+- [](rag/playlist_notes/)
 
 ---
