@@ -11,8 +11,8 @@
 
 #### Playlist
 
+- [DSWithBappy](agentic_ai/playlist_notes/dswithbappy/)
+
 <!-- include "playlist_notes/README.md" -->
-
-
 
 ---
