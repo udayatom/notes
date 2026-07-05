@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "3a1f198181072ac3",
+    "type": "split",
+    "children": [
+      {
+        "id": "12b388c53a3e8365",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be26e11c4bb1605c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todo/2026-07-W1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-W1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af79ff848c02e7ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2ae765bc9268d8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea7f0ec277a32fbd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f1e85f300aa52d3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f8329b4c70d65186",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "46e74854d7f18dfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "d79d5a06263163a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "073a96b16692fd3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "todo/2026-07-W1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-07-W1"
+            }
+          },
+          {
+            "id": "d0dcb2a9ab492397",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "todo/2026-07-W1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-07-W1"
+            }
+          },
+          {
+            "id": "f7483c44a91820c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3e4fbd3d8444590b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f75ef019928089f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "todo/2026-07-W1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-07-W1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "be26e11c4bb1605c",
+  "lastOpenFiles": [
+    "docs/quickcommands/gitcommands.md",
+    "docs/quickcommands/_sidebar.md",
+    "docs/quickcommands/index.html",
+    "docs/quickcommands/README.md",
+    "docs/quickcommands",
+    "docs/dspy/_sidebar.md",
+    "todo/2026-07-W1.md",
+    "todo",
+    "docs/workflow/google_calendar",
+    "docs/workflow/call",
+    "docs/workflow",
+    "docs/socialmedia_automation/whatsapp",
+    "docs/socialmedia_automation/linkedin/videos/1_linkedin_post_automation.md",
+    "docs/socialmedia_automation/linkedin/videos/linkedin_post_automation.md",
+    "docs/socialmedia_automation/linkedin/videos/README.md",
+    "docs/socialmedia_automation/linkedin/videos",
+    "docs/socialmedia_automation/linkedin/README.md",
+    "docs/socialmedia_automation/facebook",
+    "docs/socialmedia_automation/instagram",
+    "docs/socialmedia_automation/README.md",
+    "docs/interview/type1.md",
+    "docs/interview/README.md",
+    "docs/interview_preparation/type1.md",
+    "docs/interview_preparation/README.md",
+    "docs/dspy/README.md",
+    "docs/gen_ai/README.md",
+    "docs/gen_ai/overview.md",
+    "docs/gen_ai/_sidebar.md",
+    "docs/agentic_ai/README.md",
+    "docs/n8n/README.md"
+  ]
+}

@@ -27,13 +27,14 @@
 - #### AI Informative
   - [Akshay Pachaar](https://www.youtube.com/@akshay_pachaar)
   - [Dubibubi](https://www.youtube.com/@Dubibubiii)
-  - [Gaurav Sen](https://www.youtube.com/@gkcs)
   - [IBM Technology](https://www.youtube.com/@IBMTechnology)
   - [Mayank Aggarwal](https://www.youtube.com/@tech.mayankagg)
   - [Mervin Praison](https://www.youtube.com/@MervinPraison)
   - [Neural Breakdown with AVB](https://www.youtube.com/@avb_fj)
   - [Pavan Belagatti](https://www.youtube.com/@pavanbelagatti)
   - [Sapien Geno](https://www.youtube.com/@sapiengeno)
+  - [LearningHub](https://www.youtube.com/@learninghub_ak)
+  - [Gaurav Sen](https://www.youtube.com/@gkcs)
 
 ---
 

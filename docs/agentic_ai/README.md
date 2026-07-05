@@ -7,6 +7,8 @@
 
 #### Videos
 
+- [Video Reference](agentic_ai/videos/)
+
 ---
 
 #### Playlist

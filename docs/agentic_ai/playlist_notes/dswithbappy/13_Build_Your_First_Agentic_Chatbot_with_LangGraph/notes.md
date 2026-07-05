@@ -22,6 +22,12 @@
 
 ![](./assets/13_chatbot_flow.png)
 
+Store the values in persistance
+```python
+ from langgraph.checkpoint.memory import MemorySaver
+
+chatbot.get_state(config=config) //returs the history of chat
+```
 <iframe 
   src="/agentic_ai/playlist-notes/dswithbappy/13_Build_Your_First_Agentic_Chatbot_with_LangGraph/files/13_1_ChatbotFlow.html"
   width="100%" 
