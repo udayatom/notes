@@ -11,14 +11,10 @@
             "id": "be26e11c4bb1605c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todo/2026-07-W1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-07-W1"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo/2026-07-W1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-07-W1"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo/2026-07-W1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-07-W1"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo/2026-07-W1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-07-W1"
+              "title": "Outline"
             }
           }
         ]
@@ -185,35 +178,51 @@
   },
   "active": "be26e11c4bb1605c",
   "lastOpenFiles": [
+    "docs/rag/videos/assets/1_rag.jpg",
+    "docs/rag/quickpoints/assets/agentic_rag_techstack.jpg",
+    "docs/playlist-notes/AgenticAI-DSWithBappy/assets/image.jpg",
+    "docs/agentic_ai/videos/assets/1/section9.jpg",
+    "docs/agentic_ai/videos/assets/1/section8.jpg",
+    "docs/agentic_ai/videos/assets/1/section7.jpg",
+    "docs/agentic_ai/videos/assets/1/section6.jpg",
+    "docs/agentic_ai/videos/assets/1/section5.jpg",
+    "docs/agentic_ai/videos/assets/1/section4.jpg",
+    "docs/agentic_ai/videos/assets/1/section3.jpg",
+    "docs/agentic_ai/videos/assets/1/section2.jpg",
+    "optimize_images.py",
+    "docs/agentic_ai/playlist_notes/dswithbappy/14_Why_Persistence_is_Required_in_LangGraph/notes.md",
+    "docs/agentic_ai/playlist_notes/dswithbappy/14_Why_Persistence_is_Required_in_LangGraph/assets",
+    "docs/agentic_ai/playlist_notes/dswithbappy/assets",
+    "docs/agentic_ai/playlist_notes/dswithbappy/14_Why_Persistence_is_Required_in_LangGraph",
+    "docs/agentic_ai/playlist_notes/dswithbappy/13_Build_Your_First_Agentic_Chatbot_with_LangGraph/__pycache__/agentic_chatbot_backend.cpython-311.pyc",
+    "docs/agentic_ai/playlist_notes/dswithbappy/13_Build_Your_First_Agentic_Chatbot_with_LangGraph/__pycache__",
+    "docs/agentic_ai/playlist_notes/dswithbappy/13_Build_Your_First_Agentic_Chatbot_with_LangGraph/app.py",
+    "docs/agentic_ai/playlist_notes/dswithbappy/13_Build_Your_First_Agentic_Chatbot_with_LangGraph/agentic_chatbot_backend.py",
+    "docs/automation/socialmedia/whatsapp",
+    "docs/automation/socialmedia/facebook",
+    "docs/automation/socialmedia/linkedin/videos/README.md",
+    "docs/automation/socialmedia/linkedin/videos/1_linkedin_post_automation.md",
+    "docs/automation/socialmedia/linkedin/README.md",
+    "docs/automation/linkedin/videos/README.md",
+    "docs/automation/linkedin/videos/1_linkedin_post_automation.md",
+    "docs/automation/linkedin/README.md",
+    "docs/automation/README.md",
+    "docs/rag/videos/1_rag_hybrid_search.md",
+    "docs/rag/videos/README.md",
+    "todo/2026-07-W1.md",
+    "todo/README.md",
+    "portfolio_ideas/README.md",
+    "docs/portfolio_ideas/README.md",
     "docs/quickcommands/gitcommands.md",
     "docs/quickcommands/_sidebar.md",
-    "docs/quickcommands/index.html",
     "docs/quickcommands/README.md",
-    "docs/quickcommands",
     "docs/dspy/_sidebar.md",
-    "todo/2026-07-W1.md",
-    "todo",
-    "docs/workflow/google_calendar",
-    "docs/workflow/call",
-    "docs/workflow",
-    "docs/socialmedia_automation/whatsapp",
     "docs/socialmedia_automation/linkedin/videos/1_linkedin_post_automation.md",
     "docs/socialmedia_automation/linkedin/videos/linkedin_post_automation.md",
     "docs/socialmedia_automation/linkedin/videos/README.md",
-    "docs/socialmedia_automation/linkedin/videos",
     "docs/socialmedia_automation/linkedin/README.md",
-    "docs/socialmedia_automation/facebook",
-    "docs/socialmedia_automation/instagram",
     "docs/socialmedia_automation/README.md",
     "docs/interview/type1.md",
-    "docs/interview/README.md",
-    "docs/interview_preparation/type1.md",
-    "docs/interview_preparation/README.md",
-    "docs/dspy/README.md",
-    "docs/gen_ai/README.md",
-    "docs/gen_ai/overview.md",
-    "docs/gen_ai/_sidebar.md",
-    "docs/agentic_ai/README.md",
-    "docs/n8n/README.md"
+    "docs/interview/README.md"
   ]
 }

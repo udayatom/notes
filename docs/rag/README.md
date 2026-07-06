@@ -5,11 +5,11 @@
 ---
 
 #### Videos
-
+- [playlist_notes](rag/videos/)
 ---
 
 #### Playlist
 
-- [](rag/playlist_notes/)
+- [playlist_notes](rag/playlist_notes/)
 
 ---

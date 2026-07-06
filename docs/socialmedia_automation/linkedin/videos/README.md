@@ -1,1 +1,0 @@
-- [Linkedin Post Node with UI](socialmedia_automation/videos/1_linkedin_post_automation)

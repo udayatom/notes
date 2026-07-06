@@ -8,42 +8,42 @@
 
 #### Langgraph
 
-![](./assets/8_langgraph.png)
+![](./assets/8_1.png)
 
 #### Workflow
 
-![](./assets/8_workflow.png)
+![](./assets/8_2.png)
 
 #### Routing
 
-![](./assets/8_routing.png)
+![](./assets/8_3.png)
 
 #### Parallization
 
-![](./assets/8_parallization.png)
+![](./assets/8_4.png)
 
 #### Orchestration workers
 
-![](./assets/8_orchestration_workers.png)
+![](./assets/8_5.png)
 
 #### Evaluation optimizer
 
-![](./assets/8_evaluation_optimizer.png)
+![](./assets/8_6.png)
 
 #### Graph Node Edge
 
-![](./assets/8_graph_node_edge.png)
+![](./assets/8_7.png)
 
-![](./assets/8_graph_node_edge_2.png)
+![](./assets/8_8.png)
 
 #### State
 
-![](./assets/8_state.png)
+![](./assets/8_9.png)
 
 #### Reducers
 
-![](./assets/8_reducers.png)
+![](./assets/8_10.png)
 
 #### Langgraph Execution Model
 
-![](./assets/8_langgraph_execution_model.png)
+![](./assets/8_11.png)

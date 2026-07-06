@@ -20,11 +20,12 @@
   - [n8n](/n8n/)
   - [Open Claw](/openclaw/)
 
-- ### Social media integration
-  - [Facebook](/socialmedia/facebook/)
-  - [Instagram](/socialmedia/instagram/)
-  - [Linkedin](/socialmedia/linkedin/)
-  - [Whatsapp](/socialmedia/whatsapp/)
+- ### Automation
+  - ### Social media integration
+    - [Facebook](/automation/socialmedia/facebook/)
+    - [Instagram](/automation/socialmedia/instagram/)
+    - [Linkedin](/automation/socialmedia/linkedin/)
+    - [Whatsapp](/automation/socialmedia/whatsapp/)
 
 - ### Workflow Automation
   - [Call](/workflow/call/)
