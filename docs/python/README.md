@@ -47,6 +47,6 @@
   - [Context managers](python/context_managers.md)
   - [Metaprogramming basics](python/metaprogramming_basics.md)
   - [Advanced decorators](python/advanced_decorators.md)
-  - [Async programming](python/async_programming.md)
+  - [Async programming](python/async/)
 
 - #### [Pydantic](python/pydantic/notes.md)

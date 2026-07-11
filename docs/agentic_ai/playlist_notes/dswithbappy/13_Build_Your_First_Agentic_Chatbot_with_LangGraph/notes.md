@@ -20,7 +20,7 @@
 - HITL
 - Short Term and Long Term Memory
 
-![](./assets/13_chatbot_flow.png)
+![](./assets/13_chatbot_flow.jpg)
 
 Store the values in persistance
 ```python

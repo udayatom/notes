@@ -16,6 +16,7 @@
   - [Nate Herk | AI Automation](https://www.youtube.com/@nateherk)
   - [Automation Step by Step](https://www.youtube.com/@RaghavPal/videos)
   - [Lakshit Ukani](https://www.youtube.com/@lakshit-ukani)
+- [Thanh-y David Nguyen](https://www.youtube.com/@ThanhYDavid)
 
 ---
 
